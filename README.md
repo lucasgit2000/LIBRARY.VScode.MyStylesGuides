@@ -32,4 +32,5 @@ Uso do ESLint para padronização de projetos javascript. É necessário estar c
 ---
 
 **Obs:** é possível ajustar de forma customizada.
+
 **Obs2:** copie e cole os valores do arquivo '.eslintrc.json' para o projeto desejado.
