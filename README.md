@@ -2,6 +2,9 @@
 
 Uso do ESLint para padronização de projetos javascript. É necessário estar com a extensão instalada.
 
+## Descrição
+Biblioteca para eu consultar as configuraçoes iniciais dos meus futuros projetos para melhorar o ambiente de desenvolvimento no VSCODE.
+
 ---
 
 ## React
