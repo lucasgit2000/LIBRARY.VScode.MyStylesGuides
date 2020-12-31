@@ -17,6 +17,7 @@ Biblioteca para eu consultar as configuraçoes iniciais dos meus futuros projeto
 3. yarn run eslint --init
 
 - Selecione para check everything;
+- Selecione NODE
 - Selecione 'popular style guide';
 - Selecione Airbnb;
 - Selecione formato JSON;
